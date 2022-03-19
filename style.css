@@ -1,0 +1,72 @@
+body{
+    background-image: url("marvel.jpg");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
+.border-section{
+    border:0px solid;
+    margin-top:100px;
+    margin-left:200px;
+    margin-right: 250px;
+}
+.border-head{
+    background-color: rgba(255,0,0,0.8);
+}
+.border-content{
+    background-color: rgba(0,0,0,0.6);
+}
+h1{
+    text-align: center;
+}
+
+.border-subhead{
+    display:flex;
+}
+.border-left{
+    padding-left:180px;
+    padding-right:120px;
+}
+.pics-left{
+    display: flex;
+    padding-left:100px;
+    padding-right:120px;
+}
+.pics-right{
+    display: flex;
+}
+.pics{
+    display:flex;
+}
+.write-left{
+    display: flex;
+    padding-left:120px;
+    padding-right:213px
+}
+.write-right{
+    display: flex;
+}
+.write{
+    display:flex;
+}
+
+.p1{
+    margin-left:20px;
+}
+.p2{
+    margin-right:35px; 
+}
+.p3{
+    padding-left:15px;
+}
+.p4{
+    margin-right:30px;
+}
+.p5{
+    padding-left:15px;
+}
+.p6{
+    margin-right: 30px;
+}
